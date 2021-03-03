@@ -1,0 +1,4 @@
+// babel core needs to know that it has these plugins, defined below
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
